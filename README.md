@@ -1,0 +1,1 @@
+# Tim-01-pametni-senzor
