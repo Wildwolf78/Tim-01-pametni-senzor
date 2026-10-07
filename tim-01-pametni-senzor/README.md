@@ -1,6 +1,6 @@
 # Simulacija upozorenja na temperaturu
 
-Inačica: demo-v04. Projekt provjerava ručno unesenu temperaturu. Nema fizičkog senzora, mjerenja vlage ni upravljanja ventilatorom.
+Inačica: demo-v01. Projekt provjerava ručno unesenu temperaturu. Nema fizičkog senzora, mjerenja vlage ni upravljanja ventilatorom.
 
 ## Pokretanje
 
